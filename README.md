@@ -8,3 +8,6 @@ A partir de la creación de este README, voy a desarrollar un nuevo proyecto (un
 The code I’m most proud of was created in a professional context and, due to confidentiality agreements, cannot be shared publicly. My personal code available privately was written in response to specific requests, usually rushed, and therefore not refined enough to showcase proudly—hence, it remains private.  
 
 From the moment this README was created, I’m starting a new project (a request from my wife and one of her friends). I don’t know yet if it will make me proud, but I’ll build it from scratch using the best development practices possible—with the intention that it will.  
+
+Y sucederá el día en que se pongan de acuerdo y dejen de cambiarlo todo cada cinco minutos.
+And the day will come when they agree and stop changing everything every five minutes
